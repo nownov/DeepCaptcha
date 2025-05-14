@@ -25,6 +25,26 @@ PBL Team SWAMPS
 ![학부생  (7)](https://github.com/daeun6/DeepCaptcha/assets/81478444/d1e731b4-0df2-4634-a32c-d1cfe3abe8d0)
 
 
+# DeepCaptcha
+
+PBL Team SWAMPS
+
+DeepVoice Detection Using Anomaly Detection Methods
+### 1. Background
+With the advancement of deep voice technology, the goal is to reduce the damage caused by deep voice-based voice phishing. This project involves the development of a research and application system that integrates deep voice detection technology into a conversation-based voice phishing detection program.
+
+### 2. System Overview
+2.1 DeepVoice Detection
+
+The real human voice is converted into STFT (Short-Time Fourier Transform) and then into Bicoherence. The dataset is trained using the Ganomaly model to classify the voice as deep voice or not based on the Anomaly Score.
+2.2 Content-based Detection
+
+Voice data from phishing and regular conversations is converted into text using STT (Speech-to-Text). The dataset is then vectorized and trained using an LSTM (Long Short-Term Memory) model for binary classification to detect whether the conversation is a voice phishing attempt.
+
+### Achievements
+Grand Prize at the 2023 Graduation Project Evaluation
+Grand Prize at the PBL Project Presentation for Training Innovation Talent in Personal Information Security
+
 
 
 
