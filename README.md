@@ -18,11 +18,7 @@ PBL Team SWAMPS
 - 2023 졸업 프로젝트 평가회 **Grand Prize (대상 수상)**
 - 개인정보 혁신인재 양성 분야 PBL 프로젝트 보고회 **Grand Prize (대상 수상)**
 
-### Brochure
 
-![b4가 낫다  (1)](https://github.com/daeun6/DeepCaptcha/assets/81478444/961239cf-5431-4c1d-9a86-c45bf5b7a0ae)
-
-![학부생  (7)](https://github.com/daeun6/DeepCaptcha/assets/81478444/d1e731b4-0df2-4634-a32c-d1cfe3abe8d0)
 
 
 # DeepCaptcha
@@ -45,6 +41,12 @@ Voice data from phishing and regular conversations is converted into text using 
 Grand Prize at the 2023 Graduation Project Evaluation
 Grand Prize at the PBL Project Presentation for Training Innovation Talent in Personal Information Security
 
+
+### Brochure
+
+![b4가 낫다  (1)](https://github.com/daeun6/DeepCaptcha/assets/81478444/961239cf-5431-4c1d-9a86-c45bf5b7a0ae)
+
+![학부생  (7)](https://github.com/daeun6/DeepCaptcha/assets/81478444/d1e731b4-0df2-4634-a32c-d1cfe3abe8d0)
 
 
 
